@@ -3,5 +3,3 @@
 This is a simple readme file
 
 ## Section
-
-Some changes
